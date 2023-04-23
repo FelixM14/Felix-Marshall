@@ -1,0 +1,131 @@
+body {
+    color: #3F4E4F;
+    margin: 0;
+    text-align: center;
+    font-family: 'Roboto Condensed', sans-serif;
+    font-size: 20px;
+}
+
+h1 {
+    color: #609966; 
+    font-size: 70px;
+    line-height: 2;
+    margin: 50px auto 0 auto;
+    font-family: 'Great Vibes', cursive;
+
+}
+
+h2 {
+    color: #7AA874; 
+    font-family: 'Source Serif Pro', serif;
+    font-size: 30px;
+    padding-bottom: 2px;
+}
+
+h3 {
+    color: #799960;
+    font-family: 'Source Serif Pro', serif;
+}
+
+p {
+    line-height: 1.5;
+}
+
+hr {
+    border: dotted #3f4e4f5c 6px;
+    border-bottom: 0;
+    width: 4%;
+    margin: 100px auto;
+}
+
+a {
+   color: #7AA874; 
+   font-family: 'Roboto Condensed', sans-serif;
+   text-decoration: none;
+}
+
+a:hover {
+    color: #609966;
+}
+
+.top-container {
+    background-color: #DDFFBB;
+    position: relative;
+    padding-top: 100px;
+}
+
+.middle-container {
+    margin: 80px 0;
+}
+
+.bottom-container {
+    background-color: #DDFFBB;
+    padding: 50px 0 20px;
+}
+
+.skill-row {
+width: 65%;
+margin: 50px auto 100px auto;
+text-align: left;
+}
+
+.top-cloud {
+    position: absolute;
+    right: 300px;
+    top: 50px;
+}
+
+.bottom-cloud {
+    position: absolute;
+    left: 250px;
+    bottom: 300px;
+}
+
+.server-img {
+    width: 25%;
+    float: left;
+    margin-right: 30px;
+    
+}
+
+.presenter-img {
+    width: 25%;
+    float: right;
+    margin-left: 30px;
+}
+
+.computing-skills {
+
+}
+
+.intro {
+    width: 40%;
+    margin: auto;
+}
+
+.contact-message {
+    width: 40%;
+    margin: 40px auto 60px;
+}
+
+.copyright-message {
+    font-size: 14px;
+    padding: 20px 0;
+}
+
+.btn {
+    -webkit-border-radius: 8;
+    -moz-border-radius: 8;
+    border-radius: 8px;
+    font-family: Roboto Condensed;
+    color: #3F4E4F;
+    font-size: 20px;
+    background: #C7E9B0;
+    padding: 10px 20px 10px 20px;
+    text-decoration: none;
+  }
+  
+  .btn:hover {
+    background: #DDFFBB;
+    text-decoration: none;
+  }
